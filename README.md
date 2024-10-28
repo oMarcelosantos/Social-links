@@ -15,3 +15,6 @@ Este projeto tem como objetivo apresentar meus links para as principais platafor
 1. **Clone este repositório:**
    ```bash
    git clone: https://github.com/oMarcelosantos/Social-links.git
+2.  **Site ativo URL:**
+    ```bash
+    https://omarcelosantos.github.io/Social-links/
